@@ -1,0 +1,1 @@
+Download model and put into directory ./model from [VOSK Model](https://alphacephei.com/vosk/models)
